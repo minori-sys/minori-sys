@@ -44,7 +44,7 @@ https://minori-sys.github.io/
 
 ## 🚀Popular repositories
 
-公開中のコードは、このプロフィール下をご参照くださいませませ
+公開中のコードは、このプロフィール下をご参照くださいませませ🌞
 
 ##
 
