@@ -42,7 +42,8 @@ https://minori-sys.github.io/
 
 その昔（2016年当時）、`fullPage.js` × `Animate.css`で作成したものを`Vue3` × `Swiper` × `Gsap` × `Vite`でリメイク。……する意味があったのか、今日も作者の悩みは尽きない……。
 
-![gods_lunch_banner](https://github.com/minori-sys/pr/assets/31578760/ee14c888-09a9-4597-a6dc-acb438684f34)
+
+<img src="https://github.com/minori-sys/minori-sys/assets/31578760/f537bd13-ca6f-4332-bd35-5f8e881c18c9" alt="go" width="320" height="125"/>
 
 https://minori-sys.github.io/gods_lunch_lp/
 
@@ -54,7 +55,7 @@ LDページ＝`React`、アプリ本体＝`Flutter`という布陣で挑んだ**
 
 ご利用の端末によっては、初回だけ読み込みがありえないくらいに長いのですが、生暖かい目で見守って頂けましたら幸いです。（二回目からは問題ないはずです）
 
-![iketeru-todo](https://github.com/minori-sys/pr/assets/31578760/6e098992-655c-4ee7-867e-9d19afa3d37f)
+![iketeru-todo-b](https://github.com/minori-sys/minori-sys/assets/31578760/6cb288a1-3445-461a-9dc2-beb9c46b79eb)
 
 https://github.com/minori-sys/iketeru-todo-lp
 
