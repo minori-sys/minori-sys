@@ -47,6 +47,8 @@ https://minori-sys.github.io/
 
 https://minori-sys.github.io/gods_lunch_lp/
 
+ランチの時、いつも同じお店がヘビーローテーションしていませんか？
+
 LDページ＝`React`、アプリ本体＝`Flutter`という布陣で挑んだ***ランチルーレット***です。
 
 ポチッとすると、なんと***神様があなたの今日のランチするお店をお導きしてくれます。***
