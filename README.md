@@ -1,4 +1,4 @@
-![github-top](https://github.com/minori-sys/minori-sys/assets/31578760/dd47d89a-f522-4832-a01e-34795669aeb3)
+![github-top](https://github.com/user-attachments/assets/5591aace-aa55-4e52-95bb-18777f9db37c)
 
 ## 💖Greetings -ご挨拶-
 
