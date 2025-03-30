@@ -16,13 +16,13 @@
 ## 🛠Skills -技術-
 <h3 align="left">❤️‍🔥Hot！！！（超訳：最近、熱い系（注：自分の中で）</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,dart,flutter,vue,sass,html,css,php,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,dart,flutter,vue,sass,html,css,php,go)](https://skillicons.dev)
 
 <h3 align="left">💙Cool.（超訳：やったことある系（だいぶ、クールダウン、ただし、ホットスタンバイ中）</h3>
 
 - 言語 ⇒ C、C++、C#、VB、.NET、JAVA、Ruby、Swift
 
-- フレームワーク/ライブラリ等 ⇒ Symfony、CakePHP、FuelPHP、Rails、Material UI、Bootstrapなどなど
+- フレームワーク/ライブラリ等 ⇒ Nuxt、Symfony、CakePHP、FuelPHP、Rails、Material UI、Bootstrapなどなど
 
 ## 🍣works -つくったもの-
 
