@@ -22,7 +22,7 @@
 
 - 言語 ⇒ C、C++、C#、VB、.NET、JAVA、Ruby、Swift
 
-- フレームワーク/ライブラリ等 ⇒ Nuxt、Symfony、CakePHP、FuelPHP、Rails、Material UI、Bootstrapなどなど
+- フレームワーク/ライブラリ等 ⇒ Nuxt.js、Symfony、CakePHP、FuelPHP、Rails、Material UI、Bootstrapなどなど
 
 ## 🍣works -つくったもの-
 
